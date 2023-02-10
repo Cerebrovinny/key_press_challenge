@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/key_press_challenge/static/css/main.3a99ccdb.css",
+    "main.js": "/key_press_challenge/static/js/main.75caa6d0.js",
+    "index.html": "/key_press_challenge/index.html",
+    "main.3a99ccdb.css.map": "/key_press_challenge/static/css/main.3a99ccdb.css.map",
+    "main.75caa6d0.js.map": "/key_press_challenge/static/js/main.75caa6d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a99ccdb.css",
+    "static/js/main.75caa6d0.js"
+  ]
+}
